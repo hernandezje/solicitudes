@@ -1,0 +1,56 @@
+
+.cabecera{
+    margin:center;
+  }
+
+.cabecera th{
+    width: 230px;
+    overflow: hidden;
+  }
+
+.cabecera img{
+    width: 330px;
+  }
+
+.container {
+      width: 300%;
+      margin: 10px justify;
+        }
+
+body {
+      text-align: center;
+      color: black;
+      }
+
+h4 {
+    text-align: left;
+    font-family: "Verdana";
+    color: black;
+    }
+
+h3 {
+    text-align: left;
+    font-family: "Verdana", bold;
+    color: blue;
+    }
+
+h2 {
+    text-align: left;
+    font-family: "Verdana";
+    color: blue;
+    }
+
+th {
+    text-align: left;
+    font-family: "Verdana";
+    color: black;
+    font-size: 15px;
+    }
+
+td {
+    text-align: left;
+    font-family: "Verdana";
+    color: black;
+    width: auto;
+    font-size: 12px;
+}

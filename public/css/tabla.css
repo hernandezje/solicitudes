@@ -1,0 +1,32 @@
+table {
+  background-color: #313131;
+  width:99%;
+}
+
+.card{
+  background:transparent;
+}
+
+.text-light {
+  font-size:50px;
+}
+
+.thead th {
+  width:33%
+}
+
+.nota {
+  font-size:15px;
+  width: 100%;
+}
+
+.nota td{
+   color:black;
+  text-align: justify;
+}
+
+.nota a{
+    font-style: bold;
+    text-decoration: underline;
+    color: black;
+}
